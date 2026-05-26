@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sadzamek123.
 - 👀 I’m interested in assembling a pc and programming.
-- 🌱 I’m currently learning SPMKpoland.
+- 🌱 I’m currently learning C# and Phython.
 - 📫 How to reach me don't know
 - ⚡ Fun fact: guess he's alive xd
 
